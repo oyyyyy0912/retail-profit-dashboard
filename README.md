@@ -75,7 +75,7 @@ Step 3: Run the Streamlit application:
 streamlit run app.py
 
 
-Step 4: Open the browser link (usually http://localhost:8501)
+Step 4: Open the browser link (usually https://retail-profit-dashboard-jqt4tdqymfell7jhjv4x22.streamlit.app/)
 
 ---
 
